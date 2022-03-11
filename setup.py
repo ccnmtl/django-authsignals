@@ -7,6 +7,6 @@ setup(
     author='Nik Nyby',
     author_email='ctl-dev@columbia.edu',
     url='https://github.com/ccnmtl/django-authsignals',
-    install_requires=['Django']
+    install_requires=['Django'],
     packages=['authsignals'],
 )
